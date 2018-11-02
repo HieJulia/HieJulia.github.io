@@ -2,25 +2,15 @@
 + Vagrant,Ansible 
 
 
-	Skills : 
-					Back end : 
-					+ Java 8/9 (Spring framework(Spring Boot, Spring MVC, Rest/Webflux, Cloud - config, netflix, bus, cloud foundry, cluster, consul, security, sleuth, data flow, stream,task.zookeeper, connectors, contract, gateway, function ,AOP, Spring batch, spring integration ), web flow- Play framework,Lagom, Spark framework) - JavaEE, Server(Glashfish, Widfly, Apache Tomcat )
-						+ Java EE (JSP- JSF - CDI - 
-						JaxRS - JSON- B,Restful web services - JSON processing services  - Servlet )
-						+ Testing : Junit, Mockito, Robot framework ,TestNG, DBunit, JMetter, JBehave , Cucumber , BDD, TDD, Whitebox testing, blackbox testting, unit testing , integration test, system testing, usability testing, acceptance testing, regression testing, beta testing
+					  config, netflix, bus, cloud foundry, cluster, consul, security, sleuth, data flow, stream,task.zookeeper, connectors, contract, gateway, function ,AOP, Spring batch, spring integration ), web flow- Play framework,Lagom, Spark framework) - 
+						
 						+ OOP - Collections - Thread, Lambda, Streams, Annotation, Blocking queue, Servlet 4.0, JMS, OSGi, Interfaces and Classes , 
 						+ Concept: The 12 factor app, DNS, Immutability , Deep copy , Serialization, JIT compilation , AOT compilation, Hashing, Microservices, SOA, MOM, Actor model, CQRS, DDD, Event sourcing, Distributed tracing , STOMP, MQTT, AMQP, Data lake, SAML, SNMP 
-					+ Server : Tomcat, Jetty, JBoss, Wildfly, Nghinx,IIS, 
-					+ Network  : TCP , UDP, Multicast, HTTPS, TLS, SSL, SSH key (DSA, RSA), Keystore, Telnet, Network proxy, RSocket
+					+ Network  : UDP, Multicast, , 
 					+ Authentication : Open ID, OAuth 2, Kerberos, Single sign on, multi factor auth, active directory, API access management,
-					+ Nodejs (Express.js framework)  
-					+ Python (Django framework)
-					+ Scala (Play framework)
 					+ Stream microservice : Akka, Java8 stream, 
 					+ Microservice: Netflix, service monitor(grafana, graphite, )- distributed tracing - debugging(squash), localization - 
-					+ ORM : Hibernate
 					+ Static code analytics & Quality metrics: JaCoCo, Sonargraph, ThreadSafe 
-					+ Report and analytics : Jaspersoft 
 					+ ELK stack 
 					+ Hashicorp: Terraform , consul, packer, vagrant 
 
@@ -29,32 +19,17 @@
 					Design pattern : Singleton, Factory, Facade, Prototype, Adapter, Composite, Proxy, Bridge, Decorator, Mediator, Command, Strategy, Observer, Seperation of concern, Functional programming, Reactive programming, Back pressure, Functional reactive programming, declarative programming, imperative programming , AOP, 
 
 
-					Database  
-					+ SQL (MySQL - MariaDB, PostgreSQL, SQL server)
-					+ NoSQL : MongoDB, Cassandra, Neo4J
-					+ Migration tool : Flyway, LiquiBase
-					+ AWS: DynamoDB. S3, 
-
-
 					Architecture design : REST, SOAP, OData (basic )
 
 					SysAdmin 
-					+ Background job : 
-
-					Indexing tool : ElasticSearch, Apache Solr
+					+ Background job : chua 
 
 
-					OS : Unix(Mac), Linux(Ubuntu, Centos)
-
-					Version control: SVN , Git 
-
-					Cloud : AWS(AWS Cognito , DynamoDB, S3, AWS IAM ), Google Cloud Platform , OpenShift
+					Cloud : AWS(AWS Cognito , DynamoDB, S3, AWS IAM ), Google Cloud Platform 
 
 
-					Container : Docker, Vagrant 
 					Big data 
-					+ Apache Hadoop, Spark, HBase, Flink,HDFS
-					+ Kafka 
+					+  Flink,HDFS
 
 
 					UI : Vue, React, Angular 2+ , Material design, Bootstrap, SemanticUI, SASS, LESS, Webpack, Typescript
@@ -101,19 +76,14 @@
 					+ Packer 
 					+ Mesos - Yarn - Kubernetes
 
-					Caching : Redis, Memcached
-					
-
-					Build tool : Maven , Gradle, NPM , Yarn 
+			
 
 					IDE : IntelliJ, Eclipse 
 
 					Agile: Scrum, Kanban 
 
 
-					Front end : JS (Vue.js, AngularJS+ , ReactJS), Typescript, Front end engine template (Pug)
-
-					Web : HTML, css
+					
 
 					Android : Basic 
 
