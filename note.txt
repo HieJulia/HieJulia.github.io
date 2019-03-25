@@ -1,0 +1,152 @@
++ add skills vao website : Docker(70%), TravisCI(60%), Jenskin (70%),
++ Vagrant,Ansible 
+
+
+					  config, netflix, bus, cloud foundry, cluster, consul, security, sleuth, data flow, stream,task.zookeeper, connectors, contract, gateway, function ,AOP, Spring batch, spring integration ), web flow- Play framework,Lagom, Spark framework) - 
+						
+						+ OOP - Collections - Thread, Lambda, Streams, Annotation, Blocking queue, Servlet 4.0, JMS, OSGi, Interfaces and Classes , 
+						+ Concept: The 12 factor app, DNS, Immutability , Deep copy , Serialization, JIT compilation , AOT compilation, Hashing, Microservices, SOA, MOM, Actor model, CQRS, DDD, Event sourcing, Distributed tracing , STOMP, MQTT, AMQP, Data lake, SAML, SNMP 
+					+ Network  : UDP, Multicast, , 
+					+ Authentication : Open ID, OAuth 2, Kerberos, Single sign on, multi factor auth, active directory, API access management,
+					+ Stream microservice : Akka, Java8 stream, 
+					+ Microservice: Netflix, service monitor(grafana, graphite, )- distributed tracing - debugging(squash), localization - 
+					+ Static code analytics & Quality metrics: JaCoCo, Sonargraph, ThreadSafe 
+					+ ELK stack 
+					+ Hashicorp: Terraform , consul, packer, vagrant 
+
+					
+
+					Design pattern : Singleton, Factory, Facade, Prototype, Adapter, Composite, Proxy, Bridge, Decorator, Mediator, Command, Strategy, Observer, Seperation of concern, Functional programming, Reactive programming, Back pressure, Functional reactive programming, declarative programming, imperative programming , AOP, 
+
+
+					Architecture design : REST, SOAP, OData (basic )
+
+					SysAdmin 
+					+ Background job : chua 
+
+
+					Cloud : AWS(AWS Cognito , DynamoDB, S3, AWS IAM ), Google Cloud Platform 
+
+
+					Big data 
+					+  Flink,HDFS
+
+
+					UI : Vue, React, Angular 2+ , Material design, Bootstrap, SemanticUI, SASS, LESS, Webpack, Typescript
+
+
+
+					Architecture : OOP, Reactive programming(Spring webflux,RxJava, RxJs, Mono - flux, ), Functional programming, Microservices, Broker, Lambda architecture, MVC , Distributed system, Scalable system , Centralized system , Concurrency handling 
+
+
+					Integration framework : Apache camel, Apache servicemix, 
+
+					Cloud platform: AWS, IBM, Cloud Foundry, 
+
+					API testing : Postman, 
+
+
+
+					CD/CI :
+						+ Build : Maven,Gradle
+						+ Doker
+						+ Kubernetes, Ansible, Terrraform
+						+ Vagrant
+						+ Jenkins
+						+ TravisCIT 
+
+					+ Unix 
+						+ Shell scripting, Cron scheduling, Commands, 
+
+					+ Application: Slack, Trello, Jira, Bitbucket, 
+					+ SSL (OpenSSL, Let's encrypt)
+
+
+					+ IDE : Eclipse, IntelliJ, Visual studio code , 
+
+
+
+
+
+					DevOps :
+					+ Jenkins
+					+ Docker - Vagrant 
+					+ Bash script 
+					+ Ansible
+					+ Packer 
+					+ Mesos - Yarn - Kubernetes
+
+			
+
+					IDE : IntelliJ, Eclipse 
+
+					Agile: Scrum, Kanban 
+
+
+					
+
+					Android : Basic 
+
+
+
+
+					1. Flight booking - microservices : dang lam 
+					Java - Spring framework - Spring cloud - Nexflix microservice 
+					Messaging architecture : RabbitMQ 
+					Database : MySQL, PostgreSQL, MongoDB, Neo4J , Cassandra 
+					Microservice architecture 
+					Caching: Redis, Memcached 
+					Docker - Docker composer 
+					ELK stack 
+					Indexing: ElasticSearch, Solr 
+
+
+					2. Forum - blog application - DONE
+					Java - Spring framework - Hibernate - SQL - MySQL - Database design - ElasticSearch 
+					Linux server 
+					Testing : Mockito, JUnit 
+
+
+					3. Chat bot - DONE 
+					Tech stack : NodeJS, AI 
+
+
+					+ Reactive programming application 
+					Project description :
+
+
+					8. Java EE - Jboss - JEE  - JavaEE webservices 
+					Database : MySQL - PostgreSQL - 
+					Jax-rs, jackson, guava, guice, Protobuf, Mockito
+
+
+
+					4. Google Cloud platform application 
+					Tech stack : NodeJS, Google Cloud platform 
+
+
+					5. Java - AWS (Lambda, Cloudformation)
+					+ IAM, EC2, ECS, RDS, Lambda, API gateway, Load balancer 
+
+
+					6. Java - Big data 
+
+
+					7. Java desktop application
+
+					+ Java Struts - Vaadin : 
+					
+
+					
+
+
+					9. Database script for data manipulation - MySQL and Oracle 
+
+
+					10. DevOps - Orchestration tool (OpenShift - Kubernetes - Ansible ) - deployment - Jenkins 
+					+ Test/Deploy automation - CI 
+
+					11. Kotlin - Android 
+
+
+					12. ETL 
