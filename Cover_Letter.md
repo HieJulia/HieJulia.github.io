@@ -1,7 +1,9 @@
 # Hien Nguyen, Software developer 
 I am a software developer focused on Full stack development with web/mobile/desktop applications.
 I am a continuous learner and improve my technical skills and knowledge.
-My future directions is about Big data / Cloud computing. 
+My future directions is about **Big data / Cloud computing**. 
+
+
 
 ## Education 
 #### I am going to graduate from Haaga-Helia University of Applied Sciences 
@@ -34,6 +36,7 @@ Various technical stack: Java, Javascript, Android, Unity, Database development,
 + AWS with serverless architecture
 + Unix 
 + Experience in working for start-up product 
++ Unit / Integration testing 
 
 #### 2 years of professional working experience has given me experience on 
 + Skilled in designing, testing, and developing softwares 
@@ -61,7 +64,8 @@ SQL, NoSQL, Docker, Microservices architecture,
 + DevOps/ CD-CI
 + SDLC 
 + Automation development tasks 
-+ 
++ refactoring code 
+
 
 
 
@@ -75,6 +79,9 @@ SQL, NoSQL, Docker, Microservices architecture,
 + Can do attitude
 + Time management 
 + Long term planning 
++ adapt to any type of environment 
++ stay on schedule 
+
 
 
 
@@ -88,6 +95,10 @@ SQL, NoSQL, Docker, Microservices architecture,
 ## Contact me  
 #### Phone: 0469 335 071 
 #### Email: hienminhnguyen711@gmail.com
+
+
+
+
 
 
 
