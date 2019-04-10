@@ -97,6 +97,10 @@ SQL, NoSQL, Docker, Microservices architecture,
 ## References
 + SAP Labs oy Finland
 
+## 
+Thank you for your consideration. I look forward to hearing from you.
+Sincerely,
+Hien Nguyen
 
 ## Contact me  
 #### Phone: 0469 335 071 
