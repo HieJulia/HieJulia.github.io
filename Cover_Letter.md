@@ -92,7 +92,11 @@ SQL, NoSQL, Docker, Microservices architecture,
 #### Github 
 #### Stackoverflow 
 #### Quora
-#### Medium 
+#### Medium
+
+## References
++ SAP Labs oy Finland
+
 
 ## Contact me  
 #### Phone: 0469 335 071 
