@@ -53,6 +53,7 @@ Various technical stack: Java, Javascript, Android, Unity, Database development,
 ## My projects 
 + Working on my own side projects with stack on Java(Spring framework), Scala(Play framework), 
 SQL, NoSQL, Docker, Microservices architecture, 
++ Java 8, JVM performance(tuning performance, profilling, GC, concurrency, threading, etc)
 
 
 ## Other technical skills  
