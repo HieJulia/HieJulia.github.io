@@ -47,6 +47,7 @@ Various technical stack: Java, Javascript, Android, Unity, Database development,
 + Hands-on bug fixing, software developing experience 
 + Proper documentation 
 + Experience in wide range of software platforms 
++ Architecture: Microservices, Serverless, Reactive.
 
 
 ## My projects 
