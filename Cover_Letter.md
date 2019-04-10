@@ -12,8 +12,8 @@ My future directions is about **Big data / Cloud computing**.
 #### I am going to graduate from Haaga-Helia University of Applied Sciences 
 My degree is Business Information Technology, focusing on Software engineering, ICT infrastructure, IT security,
 Digital services and business IT solutions.
-
 Various technical stack: Java, Javascript, Android, Unity, Database development, Software projects.
+Planing for Master degree 
 
 
 
@@ -47,6 +47,7 @@ Various technical stack: Java, Javascript, Android, Unity, Database development,
 + Hands-on bug fixing, software developing experience 
 + Proper documentation 
 + Experience in wide range of software platforms 
++ Ability to understand and troubleshoot large systems, drilling down to code level to identify the root cause of issues
 + Architecture: Microservices, Serverless, Reactive.
 
 
@@ -54,6 +55,8 @@ Various technical stack: Java, Javascript, Android, Unity, Database development,
 + Working on my own side projects with stack on Java(Spring framework), Scala(Play framework), 
 SQL, NoSQL, Docker, Microservices architecture, 
 + Java 8, JVM performance(tuning performance, profilling, GC, concurrency, threading, etc)
++ MQTT 
++ Data streaming 
 
 
 ## Other technical skills  
