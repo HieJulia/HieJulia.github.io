@@ -12,7 +12,6 @@ Digital services and business IT solutions.
 
 Various technical stack: Java, Javascript, Android, Unity, Database development, Software projects.
 
-#### I am going to apply to Aalto University - Master degree in Computer science 
 
 
 ### Why chose me ?
