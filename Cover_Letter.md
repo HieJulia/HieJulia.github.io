@@ -1,4 +1,7 @@
-# Hien Nguyen, Software developer 
+# Cover letter
+
+
+## Hien Nguyen, Software developer 
 I am a software developer focused on Full stack development with web/mobile/desktop applications.
 I am a continuous learner and improve my technical skills and knowledge.
 My future directions is about **Big data / Cloud computing**. 
