@@ -94,8 +94,11 @@ SQL, NoSQL, Docker, Microservices architecture,
 
 ## My social accounts 
 #### LinkedIn 
+https://www.linkedin.com/in/hien-n-8435b5174/
 #### Github 
+https://github.com/hiejulia
 #### Stackoverflow 
+https://stackoverflow.com/users/7441330/hien711
 #### Quora
 #### Medium
 
