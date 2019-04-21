@@ -82,12 +82,10 @@ SQL, NoSQL, Docker, Microservices architecture,
 ## My soft skills 
 + Quick learner 
 + Problem solving 
++ Analytical skills
 + Team working 
 + Can do attitude
-+ Time management 
-+ Long term planning 
-+ adapt to any type of environment 
-+ stay on schedule 
++ Stay on schedule 
 
 
 
