@@ -74,11 +74,6 @@ SQL, NoSQL, Docker, Microservices architecture,
 + refactoring code 
 
 
-
-
-
-
-
 ## My soft skills 
 + Quick learner 
 + Problem solving 
@@ -98,8 +93,9 @@ https://github.com/hiejulia
 #### Stackoverflow 
 https://stackoverflow.com/users/7441330/hien711
 #### Quora
+https://www.quora.com/profile/Hien-Nguyen-98
 #### Medium
-
+https://medium.com/@hiennguyen_1188
 ## References
 + SAP Labs oy Finland
 
