@@ -1,11 +1,9 @@
 # Cover letter
 
-
 ## Hien Nguyen, Software developer 
 I am a software developer focused on Full stack development with web/mobile/desktop applications.
 I am a continuous learner and improve my technical skills and knowledge.
 My future directions is about **Big data / Cloud computing**. 
-
 
 
 ## Education 
@@ -14,7 +12,6 @@ My degree is Business Information Technology, focusing on Software engineering, 
 Digital services and business IT solutions.
 Various technical stack: Java, Javascript, Android, Unity, Database development, Software projects.
 Planing for Master degree 
-
 
 
 ### Why chose me ?
@@ -83,8 +80,6 @@ SQL, NoSQL, Docker, Microservices architecture,
 + Stay on schedule 
 
 
-
-
 ## My social accounts 
 #### LinkedIn 
 https://www.linkedin.com/in/hien-n-8435b5174/
@@ -97,23 +92,9 @@ https://www.quora.com/profile/Hien-Nguyen-98
 #### Medium
 https://medium.com/@hiennguyen_1188
 ## References
-+ SAP Labs oy Finland
++ SAP Labs Oy Finland
 
-## 
-Thank you for your consideration. I look forward to hearing from you.
-Sincerely,
-Hien Nguyen
 
 ## Contact me  
 #### Phone: 0469 335 071 
 #### Email: hienminhnguyen711@gmail.com
-
-
-
-
-
-
-
-
-
-
