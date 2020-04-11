@@ -11,6 +11,13 @@
 	<meta charset="utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<link rel="stylesheet" href="assets/css/main.css" />
+	<meta name="keyword" content="">  <!--fill as per your needs-->
+	<meta name="description" content="This breifs about myself">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
 	<noscript>
 		<link rel="stylesheet" href="assets/css/noscript.css" />
 	</noscript>
@@ -19,9 +26,50 @@
 			text-decoration: underline;
 		}
 	</style>
+
+
+ 
 </head>
 
 <body>
+
+	  <!-- nav bar begins here which includes logo and 4 options in one being dropdown with 3 options -->
+	  <nav class="navbar navbar-expand-sm  bg-dark navbar-dark sticky-top">
+		<!-- <a class="navbar-brand" href="file:///home/user/Documents/Bootstrap/index.html">
+		   <img id="brand-image" src="img/logo.jpg" alt="logo" height="50" width="180">
+		 </a> -->
+	 
+		 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+		   <span class="navbar-toggler-icon"></span>
+		 </button>
+	 
+		 <div class="collapse navbar-collapse" id="collapsibleNavbar">
+		   <ul class="navbar-nav">
+			 <li class="nav-item active">
+			   <a class="nav-link" href="file:///home/user/Documents/Bootstrap/index.html">Home</a>
+			 </li>
+			 <li class="nav-item dropdown">
+			   <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+				 Movies
+			   </a>
+			   <div class="dropdown-menu">
+				 <a class="dropdown-item" href="https://thoopalliamar.github.io/Work_experience">Work experience</a>
+				 <a class="dropdown-item" href="file:///home/user/Documents/Bootstrap/movies_2.html">Education</a>
+				 <a class="dropdown-item" href="file:///home/user/Documents/Bootstrap/movies_2.html">Hobbies</a>
+			   </div>
+			 </li>
+			 <li class="nav-item">
+			   <a class="nav-link" href="file:///home/user/Documents/Bootstrap/awards.html">My Blog</a>
+			 </li>
+			 <li class="nav-item">
+			   <a class="nav-link" href="file:///home/user/Documents/Bootstrap/biography.html">Contact me</a>
+			 </li>
+		   </ul>
+		 </div>
+	 
+	   </nav>
+
+
 	<div id="wrapper">
 
 		<nav id="nav">
@@ -35,6 +83,15 @@
 
 		<!-- Main -->
 		<div id="main">
+
+			<nav id="nav">
+				<a href="#me" class="icon fa-home active"><span>Home</span></a>
+				<a href="#skills" class="icon fa-list"><span>Skills</span></a>
+				<a href="#education" class="icon fa-book"><span>Education</span></a>
+				<!-- <a href="#portfolio" class="icon fa-github "><span>Projects</span></a>
+				<a href="#hackathons" class="icon fa-code "><span>Hackathons</span></a> -->
+				<a href="#contact" class="icon fa-envelope"><span>Contacts</span></a>
+			</nav>
 
 			<article id="me" class="panel">
 				<div>
