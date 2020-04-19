@@ -899,8 +899,10 @@ Lastly, the problem test the ability to think the similar patterns which is rath
 						
 						The problem is typical Dynamic Programming, which should be considered at the last round. Time complexity is O(W × H) but for the large test case, it will fail. My solution is quite similar to Google solution which has the same time complexity. We can use DP to compute all the possible 
 						paths fro top left to bottom right of the matrix, and keep track of the count of the path that include to the area of rectangular subgrid of squares has been cut out from the grid since "The robot will randomly choose to either move to the square directly to the right, or to the square directly below it with equal probability."
+						The last problem tested your skill in Dynamic Programming & Probability. 
+
 						
-						I have not been able to come up with the most optimized solution for the large test case, but using single binomial coefficient (https://www.geeksforgeeks.org/maths-behind-number-of-paths-in-matrix-problem/). Also we have to handle floating point issue to store every huge number in their log representation which again, test your knowledge of not only data structures & algorithms, but also knowledge of computer architecture 
+						I have not been able to come up with the most optimized solution for the large test case although get intuition that this will be a math solution for the most optimized solution for this problem, but using single binomial coefficient (https://www.geeksforgeeks.org/maths-behind-number-of-paths-in-matrix-problem/). Also we have to handle floating point issue to store every huge number in their log representation which again, test your knowledge of not only data structures & algorithms, but also knowledge of computer architecture 
 						The bottleneck of this problem is that you should focus on the fact of moving down and moving right share the same possibility 0.5, at least I have taken into account this attribute fact, but coming up to Binomial coefficient problem has neven been practiced by me, which need to practice in the next round of Kickstart contest. 
 						
 						
